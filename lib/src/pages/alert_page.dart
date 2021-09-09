@@ -28,7 +28,7 @@ class AlertPage extends StatelessWidget {
             content: Column(
               mainAxisSize: MainAxisSize.min,
               children: <Widget>[
-                Text('Contenidode la tarjeta'),
+                Text('Debe instalar el antivirus Norton 3021'),
                 FlutterLogo( size: 50.00,)
               ],
             ),
